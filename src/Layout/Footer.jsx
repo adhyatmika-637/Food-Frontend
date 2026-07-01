@@ -9,6 +9,8 @@ import img2 from "../assets/img-2.jpeg"
 import img3 from "../assets/img-3.jpeg"
 import img4 from "../assets/img-4.jpeg"
 
+// "Hii test "
+
 
 function Footer() {
   return (
